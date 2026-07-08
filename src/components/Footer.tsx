@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; 2026 StudyMate AI. All rights reserved.</p>
+          <p>&copy; 2026 StudyMate AI. All rights reserved. | Version 1.0.0</p>
         </div>
       </div>
     </footer>
