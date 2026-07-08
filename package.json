@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "AI-powered learning assistant for students",
+  "author": "StudyMate Team",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
