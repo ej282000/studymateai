@@ -2,6 +2,8 @@
 
 An AI-powered learning assistant that helps students organize study materials, generate summaries, create personalized study schedules, and prepare for exams efficiently.
 
+> 🚀 Built with modern web technologies for optimal performance and user experience.
+
 ## Features
 
 - 📚 **Organize Study Materials** - Centralize all your notes, documents, and resources in one intelligent platform
